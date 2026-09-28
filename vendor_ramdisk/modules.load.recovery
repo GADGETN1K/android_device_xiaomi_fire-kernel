@@ -114,9 +114,9 @@ mtk_pd_charging.ko
 mtk_pep20.ko
 mtk_pep.ko
 mtk_charger_framework.ko
+xm_chg_dfs.ko
 mt6358_battery.ko
 mtk_battery_manager.ko
-xm_chg_dfs.ko
 rt_pd_manager.ko
 tcpci_late_sync.ko
 extcon-mtk-usb.ko
