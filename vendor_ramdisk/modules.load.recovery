@@ -159,3 +159,8 @@ arm_dsu_pmu.ko
 simtray.ko
 mi_memory.ko
 perf_helper.ko
+alspshub.ko
+tpd_notify.ko
+xiaomi_touch.ko
+fts_8720.ko
+nt36672c_spi.ko
